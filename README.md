@@ -28,7 +28,7 @@ Since the assignment is over and I don't have JSP projects to work on, I don't (
 
 - I manually download the ant executable and put in the system path.
 
-- There are the browser won't refresh automatically.
+- The browser won't refresh automatically.
 
 - Doesn't show error prompt if the commands fail.
 
